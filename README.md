@@ -31,12 +31,14 @@ El primer nodo del árbol se denomina raíz y es el punto de inicio de toda la e
 Los nodos representan cada elemento almacenado dentro del árbol. Cada nodo contiene información y referencias hacia otros nodos.
 En C++ se utilizan punteros para conectar nodos dinámicamente, mientras que en Java se utilizan referencias a objetos.
 La utilización de nodos permite que el árbol pueda crecer dinámicamente durante la ejecución del programa.
-
+<pre>
 *Recursividad:*
+</pre>
 La recursividad es una técnica de programación donde una función se llama a sí misma para resolver un problema de manera repetitiva.
 Los recorridos DFS utilizan recursividad porque cada subárbol puede tratarse como un árbol independiente.
-
+<pre>
 *Recorridos de Árboles Binarios:*
+</pre>
 Un recorrido es el proceso mediante el cual se visitan todos los nodos del árbol siguiendo un orden específico.
 Los recorridos permiten:
 <pre>
@@ -46,56 +48,66 @@ Los recorridos permiten:
 •	Organizar información. 
 </pre>
 Existen dos tipos principales:
-
+<pre>
 •	DFS (Depth First Search) 
 •	BFS (Breadth First Search) 
-
-DFS (Depth First Search):
+</pre>
+<pre>
+*DFS (Depth First Search):*
+</pre>
 DFS significa “búsqueda en profundidad”. Este método recorre primero las ramas más profundas del árbol antes de regresar a otros nodos.
 Los recorridos DFS son:
+<pre>
 •	Inorden 
 •	Preorden 
 •	Postorden 
+</pre>
 DFS generalmente utiliza:
+<pre>
 •	Recursividad 
 •	Pila implícita del sistema 
+</pre>
 
-Recorrido Inorden:
+# Recorrido Inorden:
 El recorrido Inorden sigue el orden: Izquierda → Raíz → Derecha
-Recorrido Preorden:
+# Recorrido Preorden:
 El recorrido Preorden sigue el orden: Raíz → Izquierda → Derecha
-Recorrido Postorden:
+# Recorrido Postorden:
 El recorrido Postorden sigue el orden: Izquierda → Derecha → Raíz
-BFS (Breadth First Search):
+3 BFS (Breadth First Search):
 BFS significa “búsqueda en anchura”. Este recorrido visita los nodos nivel por nivel.
 
-Árboles Binarios en C++:
+# Árboles Binarios en C++:
 En C++ los árboles binarios se implementan utilizando:
+<pre>
 •	estructuras (struct) 
 •	punteros 
 •	memoria dinámica (new) 
-
+</pre>
+<pre>
 Ejemplo:
 Nodo* izquierdo;
 Nodo* derecho;
-
-Árboles Binarios en Java:
+</pre>
+# Árboles Binarios en Java:
 En Java los árboles binarios se implementan mediante:
+<pre></pre>
 •	clases 
 •	objetos 
 •	referencias 
-
+</pre>
+<pre>
 Ejemplo:
 Nodo izquierdo;
 Nodo derecho;
-
-Aplicación de Árboles Binarios en Sistemas Reales:
+</pre>
+# Aplicación de Árboles Binarios en Sistemas Reales:
 En esta práctica se aplicó un árbol binario para representar módulos de un sistema web:
-
-Sistema Web
-/                            \
-  Usuarios               Inventario
-/           \                /               \
+<pre>
+              Sistema Web
+          /                \
+      Usuarios         Inventario
+     /       \         /         \
 Registrar  Buscar  Productos  Reportes
-
+</pre>
 Esto permite comprender cómo las estructuras jerárquicas pueden utilizarse para organizar módulos y procesos dentro de aplicaciones reales.
