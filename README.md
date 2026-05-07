@@ -537,6 +537,110 @@ raiz.derecho.derecho = new Nodo("Reportes");
 Funcionamiento: El árbol binario representa la estructura jerárquica de un sistema web. La raíz representa el sistema principal y los demás nodos corresponden a módulos secundarios. Esta representación permite aplicar los recorridos a situaciones reales dentro del desarrollo de software.
 
 # 6.	CAPTURAS EN C++:
-
 Se incluyen capturas del funcionamiento del programa:
 
+### a)	Ejercicio 1 En C++:
+
+<img width="405" height="137" alt="Ejercicio1" src="https://github.com/user-attachments/assets/9d5d8439-8f95-4d0f-9681-8c4642e6552e" />
+
+### b)	Ejercicio 2 En C++:
+
+ <img width="407" height="140" alt="Ejercicio2" src="https://github.com/user-attachments/assets/493e034e-34e1-46cd-897f-ddfe74164f62" />
+
+### c)	Ejercicio 3 En C++:
+ 
+<img width="399" height="152" alt="Ejercicio3" src="https://github.com/user-attachments/assets/fa421768-1c79-4d89-9c07-9f1deee77cb3" />
+
+### d)	Ejercicio 4 En C++:
+
+<img width="400" height="149" alt="Ejercicio4" src="https://github.com/user-attachments/assets/958a1001-2b28-4e9e-810b-c7584997c937" />
+
+### e)	Ejercicio 5 En C++ (Menú):
+
+ <img width="356" height="112" alt="Ejercicio5 Menu" src="https://github.com/user-attachments/assets/f38071a7-dff2-41bb-8312-b7d87a6e7d78" />
+
+### f)	Ejercicio 5 En C++ (Opción 1):
+
+ <img width="680" height="135" alt="Ejercicio5 Opcion1" src="https://github.com/user-attachments/assets/9696e86e-53b0-4d1c-be65-2a38511a9225" />
+
+### g)	Ejercicio 5 En C++ (Opción 2):
+
+ <img width="666" height="140" alt="Ejercicio5 Opcion2" src="https://github.com/user-attachments/assets/146e580a-4ff6-46b8-bf74-b0120edbf518" />
+
+### h)	Ejercicio 5 En C++ (Opción 3):
+
+<img width="688" height="139" alt="Ejercicio5 Opcion3" src="https://github.com/user-attachments/assets/bf98a7a6-41fc-4543-8c15-60f19d5c2727" />
+ 
+### i)	Ejercicio 5 En C++ (Opción 4):
+
+ <img width="638" height="137" alt="Ejercicio5 Opcion4" src="https://github.com/user-attachments/assets/53f2c93a-8588-4061-8c37-4d90b6173db9" />
+
+### j)	Ejercicio 5 En C++ (Opción 5):
+
+ <img width="389" height="188" alt="Ejercicio5 Opcion5" src="https://github.com/user-attachments/assets/9e6c26e7-52a4-401d-964f-84653aa0292f" />
+
+# 7.	CAPTURAS EN JAVA:
+Se incluyen capturas del funcionamiento del programa:
+
+### a)	Ejercicio 1 En Java:
+
+<img width="446" height="162" alt="Main1" src="https://github.com/user-attachments/assets/3a6d80d6-45e1-43c4-aa5d-ebaae2379114" />
+ 
+### b)	Ejercicio 2 En Java:
+
+ <img width="451" height="112" alt="Main2" src="https://github.com/user-attachments/assets/a465256b-7e7d-425f-9978-5427daed9e1c" />
+
+### c)	Ejercicio 3 En Java:
+
+ <img width="449" height="131" alt="Main3" src="https://github.com/user-attachments/assets/1cfa9504-74f4-4bb5-8f04-9c143b707133" />
+
+### d)	Ejercicio 4 En Java:
+
+<img width="455" height="127" alt="Main4" src="https://github.com/user-attachments/assets/6128c23a-3857-4ef5-bb9d-959447aab4a6" />
+
+### e)	Ejercicio 5 En Java (Menú):
+
+ <img width="449" height="155" alt="Main5" src="https://github.com/user-attachments/assets/3082af51-fe08-4686-96cc-f3679210df6a" />
+
+### f)	Ejercicio 5 En Java (Opción 1):
+
+ <img width="809" height="189" alt="Main5 Opcion1" src="https://github.com/user-attachments/assets/c30a4376-28f7-4042-8b86-6a75c6664680" />
+
+### g)	Ejercicio 5 En Java (Opción 2):
+
+ <img width="804" height="141" alt="Main5 Opcion2" src="https://github.com/user-attachments/assets/649c31fa-fa7f-4c96-aab3-832abfd7d4d8" />
+
+### h)	Ejercicio 5 En Java (Opción 3):
+
+ <img width="824" height="143" alt="Main5 Opcion3" src="https://github.com/user-attachments/assets/2743446a-abf3-456c-8990-526eedd71a44" />
+
+### i)	Ejercicio 5 En Java (Opción 4):
+
+ <img width="772" height="145" alt="Main5 Opcion4" src="https://github.com/user-attachments/assets/517fe974-d510-4a0c-9528-b88bd5f65dac" />
+
+### j)	Ejercicio 5 En Java (Opción 5):
+
+ <img width="497" height="185" alt="Main5 Opcion5" src="https://github.com/user-attachments/assets/68dbc6d7-2ff0-4f5c-a21d-822da2cbf146" />
+
+# 8.	DOCUMENTACION DE GITHUB E IA:
+
+## GitHub: 
+Durante el desarrollo de la práctica se utilizó GitHub como plataforma de control de versiones y almacenamiento del proyecto, permitiendo organizar el código fuente, la documentación y las evidencias de ejecución de manera estructurada. El repositorio facilitó el acceso a los archivos desarrollados en C++ y Java, además de permitir mantener un respaldo del trabajo realizado.
+
+## IA:
+Se utilizó Inteligencia Artificial como herramienta de apoyo académico durante el desarrollo de la práctica. La IA colaboró en la explicación de conceptos relacionados con árboles binarios, recorridos DFS y BFS, recursividad y estructuras dinámicas. También brindó apoyo parcial en la generación y corrección de fragmentos de código en C++ y Java, así como en la organización y redacción del informe técnico.
+
+# 9. Conclusiones:
+
+1.	Se logró implementar correctamente los recorridos Inorden, Preorden, Postorden y BFS en los lenguajes C++ y Java, permitiendo comprender el funcionamiento de los árboles binarios y la forma en que se recorren sus nodos mediante diferentes estrategias. 
+2.	La práctica permitió aplicar recursividad en los recorridos DFS, demostrando cómo una función puede recorrer estructuras jerárquicas de manera eficiente mediante llamadas recursivas sobre los subárboles izquierdo y derecho. 
+3.	Se comprobó la importancia del uso de colas en el recorrido BFS, ya que esta estructura permite recorrer el árbol nivel por nivel manteniendo el orden correcto de visita de los nodos. 
+4.	Mediante la comparación entre C++ y Java se identificaron diferencias importantes en el manejo de memoria y estructuras dinámicas. En C++ se trabajó con punteros y memoria dinámica, mientras que en Java se utilizaron clases, objetos y referencias administradas automáticamente. 
+5.	La implementación de funciones adicionales para contar nodos y hojas permitió fortalecer el manejo de árboles binarios y comprender mejor la manipulación de estructuras dinámicas mediante recursividad. 
+6.	La representación de módulos de un sistema web mediante un árbol binario permitió relacionar los conceptos teóricos con una aplicación real, demostrando que los árboles son útiles para organizar información jerárquica dentro del desarrollo de software. 
+
+# 10. Recomendaciones:
+
+1.	Continuar practicando la implementación de árboles binarios y diferentes tipos de recorridos para fortalecer la comprensión de estructuras de datos dinámicas y algoritmos recursivos. 
+2.	Realizar pruebas agregando nuevos nodos y modificando la estructura del árbol para analizar cómo cambian los recorridos y el comportamiento del programa. 
+3.	Aplicar los árboles binarios en casos reales relacionados con sistemas web, organización de información y procesamiento jerárquico de datos para fortalecer la relación entre teoría y práctica.
