@@ -1,4 +1,4 @@
-# Recorridos Inorden, Preorden, Postorden y BFS
+# RECORRIDOS INORDEN, PREORDEN, POSTORDEN Y BFS
 
 # 1.	INTRODUCCION:
 Un recorrido de árbol es un proceso sistemático para visitar todos los nodos de una estructura jerárquica. En arboles binarios se utilizan principalmente recorridos en profundidad: Inorden, Preorden y Postorden. Además, el recorrido BFS permite visitar nodos por niveles usando una cola.
